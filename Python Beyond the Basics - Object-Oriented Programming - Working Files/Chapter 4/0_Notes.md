@@ -67,7 +67,7 @@ one.
 ---
 # Multiple Inheritance And The Lookup Tree
 
-> - Any class can inherti from multiple classes.
+> - Any class can inherit from multiple classes.
 > - Python normally use 'depth-first' order when searching inheriting classes.
 > - But when two classes inherit from the same class, Python eliminates the first mention of that class from the mro 
 (metod resolution order)
