@@ -2,8 +2,10 @@
 class MyClass(object):
     var = 10
 
-this_obj = MyClass() # this_obj is a MyClass instance or MyClass Object
-that_obj = MyClass() # created second instance to show different hex cod (memory address)
+# this_obj is a MyClass instance or MyClass Object
+this_obj = MyClass()
+# created second instance to show different hex cod (memory address)
+that_obj = MyClass()
 
 print(this_obj)
 print(that_obj)

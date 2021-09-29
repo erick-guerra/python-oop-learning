@@ -3,7 +3,7 @@ class Erick(object):
 
     def callme(self):
         print("Calling the 'call me' method with instance: ")
-        print("This is the instance obj memmory allocated: {} ".format(self))
+        print("This is the instance obj memory allocated: {} ".format(self))
 
 this_erick = Erick()
 print(this_erick)

@@ -89,7 +89,7 @@ In this lesson, we are going to see how object themselves have their own attribu
 
 # Encapsulation
 > - Encapsulation: The first of three pillars of OOP.
-> - Encasulation refers to the safe storage of data (ass attributes) in an instance.
+> - Encapsulation refers to the safe storage of data (as attributes) in an instance.
 > - Data can only be accessed through instance methods.
 > - Data should be validated as correct (depending on the requirements set in class methods).
 > - Data should be safe from changes by external processes.
@@ -159,5 +159,5 @@ to be used internally and not called by the user class and is called magic becau
 
 # Woking with class and instance data
 
-Instance have acces to their own individual value, but they will also have access to class data, therefore class data is
+Instance have access to their own individual value, but they will also have access to class data, therefore class data is
 intended to be shared among instances.
